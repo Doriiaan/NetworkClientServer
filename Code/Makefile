@@ -42,5 +42,5 @@ mrproper: clean
 	@rm -f $(EXEC_SERVER)
 	@rm -f $(EXEC_CLIENT)
 
-#doc: $(DOC)
-#	@doxygen ../Documentation/dconfig
+doc: $(DOC)
+	@doxygen ../doc/Doxyfile

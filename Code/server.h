@@ -1,3 +1,14 @@
+/**
+ * @file server.h
+ * @author Alary Dorian
+ * @brief 
+ * @version 0.1
+ * @date 2022-07-07
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #ifndef __SERVER_H__
 #define __SERVER_H__
 

@@ -1,3 +1,13 @@
+/**
+ * @file client.h
+ * @author Alary Dorian
+ * @brief 
+ * @version 0.1
+ * @date 2022-07-07
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #ifndef __CLIENT_H__
 #define __CLIENT_H__
 
