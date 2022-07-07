@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "stdio.h": "c",
+        "unistd.h": "c",
+        "inet.h": "c",
+        "queue.h": "c",
+        "pthread.h": "c",
+        "string.h": "c",
+        "struct.h": "c",
+        "list.h": "c",
+        "socket.h": "c",
+        "stdlib.h": "c",
+        "main.C": "cpp",
+        "types.h": "c",
+        "netdb.h": "c",
+        "in.h": "c",
+        "struct_osockaddr.h": "c",
+        "features.h": "c",
+        "cerrno": "c",
+        "server.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

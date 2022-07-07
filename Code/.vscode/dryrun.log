@@ -1,0 +1,10 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/dorian/Documents/info/C/Network'
+gcc	 -o client.o -c client.c -Werror -Wextra -Wall	 -O3 -DNDEBUG
+gcc	 -o client client.o 
+gcc	 -o server.o -c server.c -Werror -Wextra -Wall	 -O3 -DNDEBUG
+gcc	 -o List/list.o -c List/list.c -Werror -Wextra -Wall	 -O3 -DNDEBUG
+make: Leaving directory '/home/dorian/Documents/info/C/Network'
+ 
+make: *** No rule to make target 'Queue/Queue.o', needed by 'server'.
+
